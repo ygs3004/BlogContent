@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/Git TEst.md",
+                "file": "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/Git TEst.md",
+                "file": "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Trouble/Git TEst.md",
+                "file": "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Trouble/Git TEst.md",
+                "file": "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Trouble/Git TEst.md"
+                "file": "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md"
               }
             }
           }
@@ -168,9 +168,9 @@
   },
   "active": "c7c7c03281669223",
   "lastOpenFiles": [
-    "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
-    "Develop/Trouble/Git TEst.md",
     "Develop/Trouble/Stream 타입에 대한 이해.md",
+    "Develop/Trouble/Git TEst.md",
+    "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
     "Develop/Trouble/Spring Request Body 는 한번만 읽어진다.md",
     "Develop/Trouble/스칼라 쿼리와 쿼리 최적화 경험.md",
     "Develop/Trouble/Apache FTP Client 이용 시 속도 문제.md",
