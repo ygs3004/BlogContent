@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "fc901065cbaf19a4"
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md"
+                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md"
               }
             }
           }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +167,9 @@
   },
   "active": "c7c7c03281669223",
   "lastOpenFiles": [
-    "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
     "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+    "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+    "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
     "Develop/Trouble/Stream 타입에 대한 이해.md",
     "Develop/Trouble/Git TEst.md",
     "Develop/Trouble/Spring Request Body 는 한번만 읽어진다.md",
