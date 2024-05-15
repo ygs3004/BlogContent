@@ -6,6 +6,7 @@
       {
         "id": "d0095a3acac72133",
         "type": "tabs",
+        "dimension": 53.22195704057279,
         "children": [
           {
             "id": "c7c7c03281669223",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,6 +26,7 @@
       {
         "id": "dd52aeed85b1af23",
         "type": "tabs",
+        "dimension": 46.77804295942721,
         "children": [
           {
             "id": "d57444205fd1cfbb",
@@ -32,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md"
+                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md"
               }
             }
           }
@@ -153,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +170,12 @@
   },
   "active": "c7c7c03281669223",
   "lastOpenFiles": [
-    "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+    "Pasted image 20240515174407.png",
+    "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+    "Develop/Code 저장",
     "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+    "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+    "README.md",
     "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
     "Develop/Trouble/Stream 타입에 대한 이해.md",
     "Develop/Trouble/Git TEst.md",
