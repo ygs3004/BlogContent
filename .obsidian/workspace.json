@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+                "file": "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+                "file": "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+                "file": "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+                "file": "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md"
+                "file": "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "c7c7c03281669223",
   "lastOpenFiles": [
-    "Pasted image 20240515174407.png",
     "Develop/Code 저장/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
+    "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
+    "Pasted image 20240515174407.png",
     "Develop/Code 저장",
     "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
     "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
