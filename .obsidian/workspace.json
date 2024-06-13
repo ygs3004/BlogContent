@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+                "file": "Develop/Trouble/Spring Log 파일이 안보인다면.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+                "file": "Develop/Trouble/Spring Log 파일이 안보인다면.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+                "file": "Develop/Trouble/Spring Log 파일이 안보인다면.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+                "file": "Develop/Trouble/Spring Log 파일이 안보인다면.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md"
+                "file": "Develop/Trouble/Spring Log 파일이 안보인다면.md"
               }
             }
           }
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +167,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c7c7c03281669223",
+  "active": "d57444205fd1cfbb",
   "lastOpenFiles": [
-    "Develop/Save/Code/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
     "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+    "Develop/Trouble/Spring Log 파일이 안보인다면.md",
+    "Develop/Save/Code/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
     "Develop/Save",
     "Develop/Save/Windows/Port 죽이기.md",
     "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
