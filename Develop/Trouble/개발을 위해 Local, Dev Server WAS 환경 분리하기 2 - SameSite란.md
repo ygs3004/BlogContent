@@ -35,3 +35,14 @@ public CookieSerializer cookieSerializer() throws MalformedURLException {
 
 
 이로써 로컬 및 서버 WAS 인지에 따른 개발환경 분리를 완료할 수 있었다.
+
+
+--- 
+
+### 추가내용 
+CookieSerializer Bean 을 새로 등록하는 방법 외에도 방법이 있어 변경하여 적용후 남긴다. 개발 환경에서만 필요한 옵션이었기에 개발서버 기준application.properties 로 분리하였다.
+
+```properties
+server.servlet.session.cookie.same-site=none
+server.servlet.session.cookie.secure=true
+```
