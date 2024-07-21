@@ -24,7 +24,8 @@ int indexOfRange(Object o, int start, int end) {
             if (o.equals(es[i])) {   // 바로 이곳
                 return i;  
             }  
-        }    }    return -1;  
+        }
+	}    return -1;  
 }
 ```
 

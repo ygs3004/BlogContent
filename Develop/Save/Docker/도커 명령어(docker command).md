@@ -1,5 +1,5 @@
 
-### docker
+### Docker Image / container
 
 ```shell
 # 실행중인 도커 컨테이너 정보
@@ -47,9 +47,24 @@ docker image prune
 # 로그 보기
 docker logs
 	# -f : follow mode 
- 
+
 ```
 
+### Docker Network
 
+```shell
+# 네트워크 목록보기
+docker network ls
+
+# 네트워크 만들기
+docker network create ${network-name}
+```
+
+### In Code
+
+```shell
+# docker host machine ip in code
+host.docker.internal
+```
 
 
