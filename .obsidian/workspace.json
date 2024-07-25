@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop/Save/Aws/Amazon Linux 2023 docker 설치.md",
+                "file": "Develop Trouble/Stream 타입에 대한 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop/Save/Aws/Amazon Linux 2023 docker 설치.md",
+                "file": "Develop Trouble/Stream 타입에 대한 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop/Save/Aws/Amazon Linux 2023 docker 설치.md",
+                "file": "Develop Trouble/Stream 타입에 대한 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop/Save/Aws/Amazon Linux 2023 docker 설치.md"
+                "file": "Develop Trouble/Stream 타입에 대한 이해.md"
               }
             }
           }
@@ -145,44 +145,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "94006600a85c0ff4",
+  "active": "e2efd05a5437b42d",
   "lastOpenFiles": [
-    "Develop/Save/Docker/도커 명령어(docker command).md",
-    "Develop/Save/Aws/Amazon Linux 2023 docker 설치.md",
-    "Develop/Save/Aws",
-    "Develop/Save/Docker/도커 허브 명령어(docker hub command).md",
-    "Develop/Save/Docker/도커 컴포즈 명령어(docker-compose command).md",
-    "Develop/Save/Linux/커맨드 라인 단축키.md",
-    "Develop/Save/Docker/도커 환경설정 관련 기록.md",
-    "Develop/Save/Windows/Port 죽이기.md",
-    "Develop/Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
-    "Develop/Trouble/Spring Request Body 는 한번만 읽어진다.md",
-    "Develop/Trouble/카카오 로그인 API 삼단 트러블.....md",
-    "Develop/Trouble/Stream 타입에 대한 이해.md",
+    "Notes",
+    "Notes/Windows/Port 죽이기.md",
+    "Develop Trouble/Stream 타입에 대한 이해.md",
     "README.md",
-    "Develop/Trouble/Linux 서버 Spring Log 파일이 안 보인다면.md",
-    "Develop/Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 1 - Intellij 환경 변수 이용하기.md",
-    "Develop/Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
-    "Develop/Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
-    "Develop/Trouble/JUnit 사용 시 Spring Bean 이 생성되지 않는다면.md",
-    "Develop/Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 2 - SameSite란.md",
-    "Develop/Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
-    "Develop/Trouble/스칼라 쿼리와 쿼리 최적화 경험.md",
-    "Develop/Trouble/Apache FTP Client 이용 시 속도 문제.md",
+    "Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
+    "Notes/Aws/Amazon Linux 2023 docker 설치하기.md",
+    "Notes/Docker/도커 명령어(docker command).md",
+    "Notes/Aws",
+    "Notes/Docker/도커 허브 명령어(docker hub command).md",
+    "Notes/Docker/도커 컴포즈 명령어(docker-compose command).md",
+    "Notes/Linux/커맨드 라인 단축키.md",
+    "Notes/Docker/도커 환경설정 관련 기록.md",
+    "Develop Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
+    "Develop Trouble/Spring Request Body 는 한번만 읽어진다.md",
+    "Develop Trouble/카카오 로그인 API 삼단 트러블.....md",
+    "Develop Trouble/Linux 서버 Spring Log 파일이 안 보인다면.md",
+    "Develop Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 1 - Intellij 환경 변수 이용하기.md",
+    "Develop Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
+    "Develop Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
+    "Develop Trouble/JUnit 사용 시 Spring Bean 이 생성되지 않는다면.md",
+    "Develop Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 2 - SameSite란.md",
+    "Develop Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
+    "Develop Trouble/스칼라 쿼리와 쿼리 최적화 경험.md",
+    "Develop Trouble/Apache FTP Client 이용 시 속도 문제.md",
     "무제 파일.md",
     "무제 파일.canvas",
     "Develop/Save/Linux/무제 파일.md",
-    "Develop/Save/Linux",
+    "Notes/Linux",
     "Develop/Save/무제 파일.md",
-    "Develop/Save/Docker",
-    "Develop/Save/Code/백준, 프로그래머스 문제 실행 테스트환경 (JAVA) 만들기.md",
-    "Develop/Save/Code/백준 문제 실행 테스트 환경(JAVA) 만들기.md",
-    "Develop/Save",
-    "Develop/Save/Windows",
+    "Notes/Docker",
+    "Develop Trouble/Save",
+    "Notes/Windows",
     "Pasted image 20240515174407.png",
-    "Develop/Save/Code",
-    "무제 폴더",
-    "Develop/Trouble",
-    "Develop"
+    "Code",
+    "Develop Trouble/Trouble",
+    "Develop Trouble"
   ]
 }
