@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop Trouble/Spring Boot, WebSocket 연결 시 Server to Client Message 전송이 안 될 경우(Spring Lazy Init).md",
+                "file": "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop Trouble/Spring Boot, WebSocket 연결 시 Server to Client Message 전송이 안 될 경우(Spring Lazy Init).md",
+                "file": "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop Trouble/Spring Boot, WebSocket 연결 시 Server to Client Message 전송이 안 될 경우(Spring Lazy Init).md",
+                "file": "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop Trouble/Spring Boot, WebSocket 연결 시 Server to Client Message 전송이 안 될 경우(Spring Lazy Init).md"
+                "file": "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md"
               }
             }
           }
@@ -147,8 +147,12 @@
   },
   "active": "94006600a85c0ff4",
   "lastOpenFiles": [
-    "README.md",
+    "Notes/Linux/커맨드 라인 단축키.md",
+    "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md",
+    "Notes/Kubernetes/Window, WSL kubectl config 공유하기.md",
     "Develop Trouble/Spring Boot, WebSocket 연결 시 Server to Client Message 전송이 안 될 경우(Spring Lazy Init).md",
+    "Notes/Kubernetes",
+    "README.md",
     "Develop Trouble/Stream 타입에 대한 이해.md",
     "Notes",
     "Notes/Windows/Port 죽이기.md",
@@ -158,7 +162,6 @@
     "Notes/Aws",
     "Notes/Docker/도커 허브 명령어(docker hub command).md",
     "Notes/Docker/도커 컴포즈 명령어(docker-compose command).md",
-    "Notes/Linux/커맨드 라인 단축키.md",
     "Notes/Docker/도커 환경설정 관련 기록.md",
     "Develop Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
     "Develop Trouble/Spring Request Body 는 한번만 읽어진다.md",
@@ -174,9 +177,7 @@
     "Develop Trouble/Apache FTP Client 이용 시 속도 문제.md",
     "무제 파일.md",
     "무제 파일.canvas",
-    "Develop/Save/Linux/무제 파일.md",
     "Notes/Linux",
-    "Develop/Save/무제 파일.md",
     "Notes/Docker",
     "Develop Trouble/Save",
     "Notes/Windows",
