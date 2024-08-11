@@ -64,3 +64,13 @@ kubectl rollout undo deployment/${deployment-name} --to-revision=${revision}
 kubectl delete deployment ${deployment-name}
 
 ```
+
+### Kubectl(yaml 파일 이용)
+
+```shell
+# 선언형 리소스 적용
+kubectl apply -f ${file-name}.yaml
+
+# 선언형 리소스 제거  
+kubectl delete -f=${file-name}.yaml
+```
