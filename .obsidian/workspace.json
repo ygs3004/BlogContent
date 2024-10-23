@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/알고리즘 코드 Java.md",
+                "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/알고리즘 코드 Java.md",
+                "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/알고리즘 코드 Java.md",
+                "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/알고리즘 코드 Java.md"
+                "file": "Develop Trouble/Java 배열 생성 시의 효율.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "1cfd51773d6e430a",
   "lastOpenFiles": [
-    "README.md",
+    "Develop Trouble/빌드시 JAR 파일 라이브러리가 함께 빌드되지 않을 경우 체크사항.md",
+    "Develop Trouble/Java 배열 생성 시의 효율.md",
     "Code/알고리즘 코드 Java.md",
+    "README.md",
     "Notes/nginx/Nginx http to https 리다이렉트시 Springdoc SwaggerUI 에서의 요청이 실패 할 경 우.md",
     "Notes/Linux/커맨드 라인 단축키.md",
     "Notes/nginx",
@@ -175,8 +177,6 @@
     "Develop Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
     "Develop Trouble/JUnit 사용 시 Spring Bean 이 생성되지 않는다면.md",
     "Develop Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 2 - SameSite란.md",
-    "Develop Trouble/한 번의 트랜잭션에서 INSERT 되는 순서.md",
-    "Develop Trouble/스칼라 쿼리와 쿼리 최적화 경험.md",
     "무제 파일.canvas",
     "Notes/Linux",
     "Notes/Docker",
