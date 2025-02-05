@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
+                "file": "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker 컨테이너 환경 폰트 추가하기"
+              "title": "Javascript debugger 가 동작하지 않을 경우"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
+                "file": "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Docker 컨테이너 환경 폰트 추가하기의 백링크"
+              "title": "Javascript debugger 가 동작하지 않을 경우의 백링크"
             }
           },
           {
@@ -178,8 +178,9 @@
   },
   "active": "4c12b949a5b05135",
   "lastOpenFiles": [
-    "Code/알고리즘 코드 Java.md",
     "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
+    "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
+    "Code/알고리즘 코드 Java.md",
     "Develop Trouble/빌드시 JAR 파일 라이브러리가 함께 빌드되지 않을 경우 체크사항.md",
     "Develop Trouble/Java 배열 생성 시의 효율.md",
     "README.md",
@@ -207,7 +208,6 @@
     "Develop Trouble/카카오 로그인 API 삼단 트러블.....md",
     "Develop Trouble/Linux 서버 Spring Log 파일이 안 보인다면.md",
     "Develop Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
-    "Develop Trouble/JUnit 사용 시 Spring Bean 이 생성되지 않는다면.md",
     "무제 파일.canvas",
     "Notes/Linux",
     "Notes/Docker",
