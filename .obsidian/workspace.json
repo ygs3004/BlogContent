@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
+                "file": "Develop Trouble/Oracle to PostgreSQL DB 변환 시 참고 사항 및 차이점 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Javascript debugger 가 동작하지 않을 경우"
+              "title": "Oracle to PostgreSQL DB 변환 시 참고 사항 및 차이점 정리"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
+                "file": "Develop Trouble/Oracle to PostgreSQL DB 변환 시 참고 사항 및 차이점 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Javascript debugger 가 동작하지 않을 경우의 백링크"
+              "title": "Oracle to PostgreSQL DB 변환 시 참고 사항 및 차이점 정리의 백링크"
             }
           },
           {
@@ -178,14 +178,17 @@
   },
   "active": "4c12b949a5b05135",
   "lastOpenFiles": [
-    "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
+    "Develop Trouble/Oracle to PostgreSQL DB 변환 시 참고 사항 및 차이점 정리.md",
+    "Notes/Linux/유용한 명령어 저장.md",
+    "Notes/Database",
+    "Notes/Linux/커맨드 라인 단축키.md",
     "Develop Trouble/Javascript debugger 가 동작하지 않을 경우.md",
+    "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
     "Code/알고리즘 코드 Java.md",
     "Develop Trouble/빌드시 JAR 파일 라이브러리가 함께 빌드되지 않을 경우 체크사항.md",
     "Develop Trouble/Java 배열 생성 시의 효율.md",
     "README.md",
     "Notes/nginx/Nginx http to https 리다이렉트시 Springdoc SwaggerUI 에서의 요청이 실패 할 경 우.md",
-    "Notes/Linux/커맨드 라인 단축키.md",
     "Notes/nginx",
     "Notes/Kubernetes/쿠버네티스 명령어(kubernetes command).md",
     "Develop Trouble/테이블 컬럼 추가 후 Update 를 했는데 Insert 에러 메세지가.md",
@@ -206,15 +209,12 @@
     "Develop Trouble/DBeaver row 수정 시 다른 row 가 수정될 경우.md",
     "Develop Trouble/Spring Request Body 는 한번만 읽어진다.md",
     "Develop Trouble/카카오 로그인 API 삼단 트러블.....md",
-    "Develop Trouble/Linux 서버 Spring Log 파일이 안 보인다면.md",
-    "Develop Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
     "무제 파일.canvas",
     "Notes/Linux",
     "Notes/Docker",
     "Develop Trouble/Save",
     "Notes/Windows",
     "Pasted image 20240515174407.png",
-    "Code",
-    "Develop Trouble/Trouble"
+    "Code"
   ]
 }
