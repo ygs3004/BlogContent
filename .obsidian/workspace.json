@@ -16,10 +16,27 @@
                 "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Java 배열 생성 시의 효율"
+            }
+          },
+          {
+            "id": "4c12b949a5b05135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker 컨테이너 환경 폰트 추가하기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
+                "file": "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Docker 컨테이너 환경 폰트 추가하기의 백링크"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Develop Trouble/Java 배열 생성 시의 효율.md",
+                "file": "Code/알고리즘 코드 Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "알고리즘 코드 Java의 나가는 링크"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Develop Trouble/Java 배열 생성 시의 효율.md"
-              }
+                "file": "Code/알고리즘 코드 Java.md"
+              },
+              "icon": "lucide-list",
+              "title": "알고리즘 코드 Java 개요"
             }
           }
         ]
@@ -145,11 +176,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1cfd51773d6e430a",
+  "active": "4c12b949a5b05135",
   "lastOpenFiles": [
+    "Code/알고리즘 코드 Java.md",
+    "Develop Trouble/Docker 컨테이너 환경 폰트 추가하기.md",
     "Develop Trouble/빌드시 JAR 파일 라이브러리가 함께 빌드되지 않을 경우 체크사항.md",
     "Develop Trouble/Java 배열 생성 시의 효율.md",
-    "Code/알고리즘 코드 Java.md",
     "README.md",
     "Notes/nginx/Nginx http to https 리다이렉트시 Springdoc SwaggerUI 에서의 요청이 실패 할 경 우.md",
     "Notes/Linux/커맨드 라인 단축키.md",
@@ -176,7 +208,6 @@
     "Develop Trouble/Linux 서버 Spring Log 파일이 안 보인다면.md",
     "Develop Trouble/ArrayList contains 는 원시 타입 값을 체크할 수 없다..md",
     "Develop Trouble/JUnit 사용 시 Spring Bean 이 생성되지 않는다면.md",
-    "Develop Trouble/개발을 위해 Local, Dev Server WAS 환경 분리하기 2 - SameSite란.md",
     "무제 파일.canvas",
     "Notes/Linux",
     "Notes/Docker",
