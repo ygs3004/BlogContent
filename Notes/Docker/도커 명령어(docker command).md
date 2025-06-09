@@ -20,7 +20,7 @@ docker build .
 docker tag ${old-name}:${old-tag} ${name}:${tag}
 
 # 컨테이너 생성 및 시작
-docker run -p ${docker-port}:${local-port} ${image-id}
+docker run -p ${local-port}:${container-port} ${image-id}
 	# -d : detached mode
 	# -it 
 		# -i : interactive(컨테이너 내부로 입력 가능하게 함)
